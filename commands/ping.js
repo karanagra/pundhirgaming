@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 
 module.exports.run = (bot,message,args)=>{
 
-    message.reply('Pong!');
+    message.reply('C:\ProgramData\BlueStacks\Engine\UserData\InputMapper');
 
 }
 
